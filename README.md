@@ -5,12 +5,12 @@ Sou a [Ludmylla](https://www.linkedin.com/in/ludmylla-bianca-silva-0b941b100/) e
 
 #Obtenha o Codigo.
 Clone este codigo usando o comando:
->git clone 
+>git clone https://github.com/Ludmylla28/Watson_Teams_Microsoft.git
 
 #Preencra os campos faltantes no codigo. 
 Edite esses campos do codigo com o nome do seu bot: 
 ARQUIVO: manifest.yml - linha 2
-- name: (Nome do servidor)
+name: (Nome do servidor)
 
 ARQUIVO: db/databaseMongo.js - linha 20
 let dbName = "/*Nome da sua colection*/";
