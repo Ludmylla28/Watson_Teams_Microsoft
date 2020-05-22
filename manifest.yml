@@ -1,0 +1,6 @@
+applications:
+- name: (Nome do servidor)
+  command: npm start  
+  memory: 246M
+  disk_quota: 246M
+  instances: 1

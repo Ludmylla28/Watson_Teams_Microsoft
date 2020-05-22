@@ -1,0 +1,9 @@
+[start]
+msg.init = listening to
+
+[erro]
+msg.erroWatson = Estou com problemas de conexão. Por favor, tente novamente mais tarde. 
+msg.erroTeams = O bot encontrou um erro.Para continuar conserte o bot
+
+[conversa]
+msg.inicial = Olá. No que posso ajudar?
